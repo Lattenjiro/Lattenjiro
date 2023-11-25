@@ -27,8 +27,8 @@ Here are some of the projects I'm proud of:
 1. 🌐 Speech Bubbles Detection & Classification
    - <img src='/SBD.gif' width='1000px' alt='SBD'>
 
-2. 📷 [Project 2: Short description and link]
-   - [Screenshot or demo GIF, if applicable]
+2. 📷 Lane and curve detection using degital image processing and AI
+   - <img src='/SBD.gif' width='1000px' alt='SBD'>
 
 3. 🎉 [Project 3: Short description and link]
    - [Screenshot or demo GIF, if applicable]
@@ -45,7 +45,7 @@ Feel free to explore my repositories to discover more!
 
 ## Let's Connect
 
-- 📧 [Email]
+- 📧 [Email](aymankamel.mail@gmail.com)
 - 🐦 [Twitter](https://twitter.com/KamelAymane)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aymanekamel)
 <!--- 🌐 [Personal Website/Blog](https://www.yourwebsite.com)-->
