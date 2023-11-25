@@ -28,7 +28,7 @@ Here are some of the projects I'm proud of:
    - <img src='/SBD.gif' width='1000px' alt='SBD'>
 
 2. 📷 Lane and curve detection using degital image processing and AI
-   - <img src='/SBD.gif' width='1000px' alt='SBD'>
+   - <img src='/laneDetection.gif' width='1000px' alt='SBD'>
 
 3. 🎉 [Project 3: Short description and link]
    - [Screenshot or demo GIF, if applicable]
