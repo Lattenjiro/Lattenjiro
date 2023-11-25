@@ -24,8 +24,8 @@ I'm interested in:
 
 Here are some of the projects I'm proud of:
 
-1. 🌐 [Project 1: Short description and link]
-   - [Screenshot or demo GIF, if applicable]
+1. 🌐 Speech Bubbles Detection & Classification
+   - ![SBD]()
 
 2. 📷 [Project 2: Short description and link]
    - [Screenshot or demo GIF, if applicable]
