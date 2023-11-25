@@ -25,7 +25,7 @@ I'm interested in:
 Here are some of the projects I'm proud of:
 
 1. 🌐 Speech Bubbles Detection & Classification
-   - <img src='/SBD.gif' width='100vw' alt='SBD'>
+   - <img src='/SBD.gif' width='800px' alt='SBD'>
 
 2. 📷 [Project 2: Short description and link]
    - [Screenshot or demo GIF, if applicable]
