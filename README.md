@@ -1,6 +1,6 @@
 # Welcome to Lattenjiro's GitHub Profile 👋
 
-<img src='/README.png' width='1000px' alt='Banner'>
+<--img src='/README.png' width='1000px' alt='Banner'-->
 
 Hi there! 👋 I'm Aymane KAMEL, a passionate data & machine learning engineer from Morocco. Welcome to my GitHub profile! Here, you'll find a collection of projects and contributions that reflect my interests and skills.
 
