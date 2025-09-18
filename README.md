@@ -1,6 +1,6 @@
 # Welcome to Lattenjiro's GitHub Profile 👋
 
-<--img src='/README.png' width='1000px' alt='Banner'-->
+<!--img src='/README.png' width='1000px' alt='Banner'-->
 
 Hi there! 👋 I'm Aymane KAMEL, a passionate data & machine learning engineer from Morocco. Welcome to my GitHub profile! Here, you'll find a collection of projects and contributions that reflect my interests and skills.
 
@@ -29,11 +29,11 @@ Here are some of the projects I'm proud of:
 
 2. 📷 Lane and curve detection using degital image processing and AI
    - <img src='/laneDetection.gif' width='1000px' alt='SBD'>
-
+<!--
 3. 🎉 [Project 3: Short description and link]
    - [Screenshot or demo GIF, if applicable]
 
-<!--## Open Source Contributions
+## Open Source Contributions
 
 I actively contribute to open-source projects, including:
 
