@@ -46,7 +46,7 @@ Feel free to explore my repositories to discover more!
 ## Let's Connect
 
 - 📧 [Email](aymankamel.mail@gmail.com)
-- 🐦 [Twitter](https://twitter.com/KamelAymane)
+- 🐦 [Twitter or X](https://x.com/Latte_devAK) call it what you want XD
 - 💼 [LinkedIn](https://www.linkedin.com/in/aymanekamel)
 <!--- 🌐 [Personal Website/Blog](https://www.yourwebsite.com)-->
 
